@@ -1,2 +1,2 @@
-This contains the assignments from week 1 to week 4 as well as the project report I did 
+This contains the documentation of the entire project I did in SOC, which was learning machine learning from the basics to making working applications. 
 
